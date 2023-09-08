@@ -1,5 +1,5 @@
 # blockchain
-the project is written to learn web3 technology on the go
+The project is written to learn web3 technology on the go
 # scheme:
 ![Untitled (3)](https://github.com/MaksimUlitin/blockchain/assets/97765224/0b777c65-4b0c-4c3b-a06f-03ddda4e9db6)
 
