@@ -7,4 +7,4 @@ the project is written to learn web3 technology on the go
 # literature and articles used when writing code:
 <p>Article on Habr: <a href="https://habr.com/ru/articles/569514/">Click</a></p>
     <p>Video on YouTube: <a href="https://youtu.be/mp3I1HtEKfU?si=Gm3O1sVN4V66Xr7F">Click</a></p>
-    <p>PDF-file GitHub: <a href="https://github.com/Number571/Blockchain/blob/master/_example/blockchain.pdf">Download PDF</a></p>
+    <p>PDF-file GitHub: <a href="https://github.com/Number571/Blockchain/blob/master/_example/blockchain.pdf">Download PDF</a></p> 
